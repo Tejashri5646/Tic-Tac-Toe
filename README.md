@@ -22,4 +22,4 @@ This project is a basic web-based Tic-Tac-Toe game where two players take turns 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Teju5646/tic-tac-toe.git
